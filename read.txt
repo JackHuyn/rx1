@@ -1,0 +1,4 @@
+t2
+before reset
+2nd reset
+changeing read
